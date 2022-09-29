@@ -4,3 +4,4 @@ This project is designed to have the eyes on the webpage follow the pointer/curs
 To run a copy of this project all you need to do is open the index file inside a web browser.
 ### Future Improvements
 Add facial other facial features.
+<img src="eyes.jpg" width=200px>
